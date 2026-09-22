@@ -1,0 +1,8 @@
+output/
+*.wav
+*.mp4
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.log
